@@ -1,0 +1,14 @@
+{
+    "name": "Varvara",
+    "age": 11,
+    "city": "Seattle, WA",
+    "interests": [
+        "Traveling",
+        "Football",
+        "Cooking",
+        "History",
+        "Jumping",
+        "New"
+    ],
+    "is_student": true
+}
